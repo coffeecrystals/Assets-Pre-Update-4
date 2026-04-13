@@ -1,0 +1,121 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -17,
+      "y": 0,
+      "z": 24,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": true
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": -11,
+      "y": 0,
+      "z": -10,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Rocks_Stone.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": -11,
+      "y": 0,
+      "z": 31,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": true
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -15,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": -2,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 3
+    }
+  ]
+}

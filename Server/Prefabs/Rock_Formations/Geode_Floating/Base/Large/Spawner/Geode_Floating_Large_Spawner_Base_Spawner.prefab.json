@@ -1,0 +1,93 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -1,
+      "y": 21,
+      "z": 0,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Rock_Formations.Geode_Floating.Base.Large.Wall.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 21,
+      "z": -1,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Rock_Formations.Geode_Floating.Base.Large.Wall.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      }
+    },
+    {
+      "x": 0,
+      "y": 21,
+      "z": 0,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Rock_Formations.Geode_Floating.Base.Large.Roof.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 21,
+      "z": 1,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Rock_Formations.Geode_Floating.Base.Large.Wall.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 21,
+      "z": 0,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Rock_Formations.Geode_Floating.Base.Large.Wall.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 3
+    }
+  ]
+}

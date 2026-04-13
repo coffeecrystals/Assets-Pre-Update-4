@@ -1,0 +1,370 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": -17,
+  "blocks": [
+    {
+      "x": -21,
+      "y": 0,
+      "z": -15,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Rocks_Stone.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": -21,
+      "y": 0,
+      "z": -1,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": -13,
+      "y": 0,
+      "z": 18,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": -12,
+      "y": 0,
+      "z": -19,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Birch.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 0,
+      "z": 26,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": -8,
+      "y": 0,
+      "z": -27,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 19,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -22,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 12,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 0,
+      "z": -30,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Birch.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 16,
+      "y": 0,
+      "z": -21,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Birch.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": 16,
+      "y": 0,
+      "z": 17,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 17,
+      "y": 0,
+      "z": -9,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 0,
+      "z": 7,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": 22,
+      "y": 0,
+      "z": 12,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 0,
+      "z": -22,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Birch.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 2
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 3,
+  "anchorY": 0,
+  "anchorZ": 4,
+  "blocks": [
+    {
+      "x": -9,
+      "y": 0,
+      "z": 0,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 37,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Rocks_Stone.*",
+            "FitHeightmap": true,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 39,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Rocks_Stone.*",
+            "FitHeightmap": true,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 15,
+      "y": 0,
+      "z": 5,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Rocks_Stone.*",
+            "FitHeightmap": true,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": 15,
+      "y": 0,
+      "z": 33,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Rocks_Stone.*",
+            "FitHeightmap": true,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": 18,
+      "y": 0,
+      "z": 13,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Spawn.Spawners_Trees_Oak.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Temple.Bridge.Geometry.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": true
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "Gah3wSgwNh6fqw8M8NOncw==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "fluids": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}

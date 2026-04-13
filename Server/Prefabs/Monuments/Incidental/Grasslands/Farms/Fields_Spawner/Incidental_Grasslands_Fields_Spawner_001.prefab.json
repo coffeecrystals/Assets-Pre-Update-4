@@ -1,0 +1,26 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Incidental.Grasslands.Farms.Fields.Incidental_Grasslands_Fields_004",
+            "FitHeightmap": true,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 2
+    }
+  ]
+}

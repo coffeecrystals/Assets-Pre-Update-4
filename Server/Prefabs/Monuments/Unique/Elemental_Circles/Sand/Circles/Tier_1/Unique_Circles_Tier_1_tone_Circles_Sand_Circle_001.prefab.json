@@ -1,0 +1,261 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 1,
+  "anchorY": 1,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -20,
+      "y": 0,
+      "z": -6,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillar_Base.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": -20,
+      "y": 6,
+      "z": -6,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillars.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": -16,
+      "y": 0,
+      "z": 12,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillar_Base.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": -16,
+      "y": 6,
+      "z": 12,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillars.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": -10,
+      "y": 0,
+      "z": -19,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillar_Base.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      }
+    },
+    {
+      "x": -10,
+      "y": 6,
+      "z": -19,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillars.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Middle.Tier_1.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 19,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillar_Base.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 19,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillars.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": -17,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillar_Base.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": -17,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillars.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 17,
+      "y": 0,
+      "z": 15,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillar_Base.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": 17,
+      "y": 6,
+      "z": 15,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillars.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 0,
+      "z": 0,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillar_Base.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": 21,
+      "y": 6,
+      "z": 0,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Monuments.Unique.Elemental_Circles.Sand.Pillars.*",
+            "FitHeightmap": false,
+            "InheritSeed": true,
+            "InheritHeightCondition": true
+          }
+        }
+      },
+      "rotation": 1
+    }
+  ]
+}

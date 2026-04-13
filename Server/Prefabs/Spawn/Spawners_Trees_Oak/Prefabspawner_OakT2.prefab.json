@@ -1,0 +1,31 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Prefab_Spawner_Block",
+      "components": {
+        "Components": {
+          "PrefabSpawner": {
+            "PrefabPath": "Trees.Oak.Stage_2.*",
+            "FitHeightmap": false,
+            "InheritSeed": false,
+            "InheritHeightCondition": false
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "loF51VQUMKu6CVE32X+4IQ==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

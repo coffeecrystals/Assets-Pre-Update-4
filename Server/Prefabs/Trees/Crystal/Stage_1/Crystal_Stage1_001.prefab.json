@@ -1,0 +1,536 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 3,
+  "anchorZ": 1,
+  "blocks": [
+    {
+      "x": -3,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Crystal_Branch_Corner",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Crystal_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Wood_Crystal_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Wood_Crystal_Trunk_Full"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Crystal_Trunk",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Crystal_Trunk_Full"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Crystal_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Crystal_Trunk_Full"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Crystal_Trunk",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "name": "Wood_Crystal_Trunk",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Crystal_Trunk_Full"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Crystal_Branch_Long",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 4,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -3,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Crystal_Branch_Corner",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Crystal_Branch_Long",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "name": "Wood_Crystal_Branch_Corner",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 0,
+      "name": "Wood_Crystal_Branch_Long",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Crystal_Trunk_Full"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Crystal_Trunk",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Crystal_Trunk_Full"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Wood_Crystal_Trunk_Full"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Crystal_Trunk",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Crystal_Trunk_Full"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Crystal_Branch_Long",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Crystal_Branch_Corner",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 4,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 5,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 6,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Crystal_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 4,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Crystal_Branch_Long",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 4,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Crystal_Branch_Corner",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Leaves_Crystal",
+      "support": 15
+    }
+  ]
+}

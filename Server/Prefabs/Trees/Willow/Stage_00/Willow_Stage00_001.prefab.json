@@ -1,0 +1,87 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 13,
+  "anchorY": 6,
+  "anchorZ": 14,
+  "blocks": [
+    {
+      "x": 12,
+      "y": 9,
+      "z": 14,
+      "name": "Plant_Leaves_Windwillow"
+    },
+    {
+      "x": 12,
+      "y": 8,
+      "z": 15,
+      "name": "Plant_Leaves_Windwillow"
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "z": 13,
+      "name": "Plant_Leaves_Windwillow"
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "z": 13,
+      "name": "Plant_Leaves_Windwillow"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 14,
+      "name": "Wood_Windwillow_Branch_Long"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 14,
+      "name": "Wood_Windwillow_Branch_Long"
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "z": 14,
+      "name": "Wood_Windwillow_Branch_Long"
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "z": 14,
+      "name": "Plant_Leaves_Windwillow"
+    },
+    {
+      "x": 13,
+      "y": 10,
+      "z": 14,
+      "name": "Plant_Leaves_Windwillow"
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "z": 15,
+      "name": "Plant_Leaves_Windwillow"
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "z": 15,
+      "name": "Plant_Leaves_Windwillow"
+    },
+    {
+      "x": 14,
+      "y": 8,
+      "z": 13,
+      "name": "Plant_Leaves_Windwillow"
+    },
+    {
+      "x": 14,
+      "y": 8,
+      "z": 14,
+      "name": "Plant_Leaves_Windwillow"
+    }
+  ]
+}

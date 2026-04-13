@@ -1,0 +1,149 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": -1,
+  "anchorY": 5,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -3,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Wood_Stormbark_Branch_Corner",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -1,
+      "name": "Wood_Stormbark_Branch_Long"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Wood_Stormbark_Branch_Long"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Stormbark_Branch_Long"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Stormbark_Branch_Long"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "Wood_Stormbark_Branch_Corner",
+      "rotation": 10
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Leaves_Stormbark"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Leaves_Stormbark"
+    }
+  ]
+}

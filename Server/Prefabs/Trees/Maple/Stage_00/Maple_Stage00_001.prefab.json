@@ -1,0 +1,141 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 2,
+  "anchorY": 5,
+  "anchorZ": 3,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 3,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 4,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 4,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Wood_Maple_Branch_Long"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Maple_Branch_Long"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Maple_Branch_Long"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 3,
+      "name": "Wood_Maple_Branch_Long"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 3,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 3,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 4,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 4,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 5,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 3,
+      "name": "Plant_Leaves_Maple"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 4,
+      "name": "Plant_Leaves_Maple"
+    }
+  ]
+}
